@@ -20,7 +20,8 @@ define([
          * @return {*}
          */
         getInstructions: function () {
-            return window.checkoutConfig.payment.instructions[this.item.method];
+            return '';
+            //return window.checkoutConfig.payment.instructions[this.item.method];
         }
     });
 });
