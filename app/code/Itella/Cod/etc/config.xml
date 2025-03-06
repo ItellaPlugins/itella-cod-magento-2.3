@@ -6,7 +6,7 @@
                 <active>0</active>
                 <model>Itella\Cod\Model\Cod</model>
                 <order_status>pending</order_status>
-                <title>Itella COD</title>
+                <title>Smartposti COD</title>
                 <allowspecific>0</allowspecific>
                 <group>offline</group>
             </itella_cod>
