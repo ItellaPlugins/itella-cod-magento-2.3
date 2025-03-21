@@ -1,6 +1,6 @@
 # Changelog
 
-## [Unreleased]
+## [1.0.2] - 2025-03-21
 ## Changed
 - name "Itella" to "Smartposti"
 
